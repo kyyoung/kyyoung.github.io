@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: https://user-images.githubusercontent.com/39981604/155469790-527c9ef9-f0c5-45f9-b0c9-a73460d83384.jpg
+picture: ![]https://user-images.githubusercontent.com/39981604/155469790-527c9ef9-f0c5-45f9-b0c9-a73460d83384.jpg
 
 # your site color theme, false to light theme
 dark-theme: true
@@ -17,9 +17,9 @@ dark-theme: true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://www.notion.so/6f692bfca936429e967c803014c13131
 
-url: https://sergiokopplin.github.io/indigo
+url: https://kyyoung.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,11 +34,10 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
 instagram: myinstagram
 linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+github: https://github.com/kyyoung
+email: kyyoung0601@gmail.com 
 
 authors:
   johndoe:
